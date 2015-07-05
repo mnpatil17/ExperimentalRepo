@@ -19,6 +19,9 @@ CommitMsg:
   TrailingPeriod:
     on_warn: fail # Treat all warnings as failures
     enabled: true
+  CapitalizedSubject:
+    on_warn: fail # Treat all warnings as failures
+    enabled: true
 
 PreCommit:
   RuboCop:
