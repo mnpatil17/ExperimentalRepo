@@ -1,0 +1,6 @@
+Metrics/LineLength:
+  Max: 100
+
+# Number of spaces for each indentation level.
+Style/IndentationWidth:
+  Width: 4
